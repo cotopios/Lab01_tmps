@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\bin\Debug\net6.0\Flyweight.exe
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\bin\Debug\net6.0\Flyweight.dll
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.dll
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\refint\Flyweight.dll
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll

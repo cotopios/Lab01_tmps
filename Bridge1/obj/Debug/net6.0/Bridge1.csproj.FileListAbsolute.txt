@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\bin\Debug\net6.0\Bridge1.exe
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\bin\Debug\net6.0\Bridge1.deps.json
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\bin\Debug\net6.0\Bridge1.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\bin\Debug\net6.0\Bridge1.dll
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\bin\Debug\net6.0\Bridge1.pdb
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.dll
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\refint\Bridge1.dll
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.pdb
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\Bridge1.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\Lab02_tmps\Bridge1\obj\Debug\net6.0\ref\Bridge1.dll
