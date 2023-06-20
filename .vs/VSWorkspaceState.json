@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\Bridge",
     "\\Decorator",
     "\\Lab02_tmps"
   ],
+=======
+    "\\lab01_tmps"
+  ],
+  "SelectedNode": "\\lab01_tmps\\Program.cs",
+>>>>>>> ce9723225383ff138418bffe09e24d582c7255d3
   "PreviewInSolutionExplorer": false
 }
