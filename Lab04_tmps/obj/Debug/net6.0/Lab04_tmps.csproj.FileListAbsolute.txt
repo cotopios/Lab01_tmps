@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\bin\Debug\net6.0\Lab04_tmps.exe
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\bin\Debug\net6.0\Lab04_tmps.deps.json
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\bin\Debug\net6.0\Lab04_tmps.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\bin\Debug\net6.0\Lab04_tmps.dll
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\bin\Debug\net6.0\Lab04_tmps.pdb
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.dll
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\refint\Lab04_tmps.dll
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.pdb
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\Lab04_tmps.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\Lab04_tmps\Lab04_tmps\obj\Debug\net6.0\ref\Lab04_tmps.dll
