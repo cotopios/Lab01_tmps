@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\bin\Debug\net6.0\Chain of responsability.exe
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\bin\Debug\net6.0\Chain of responsability.deps.json
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\bin\Debug\net6.0\Chain of responsability.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\bin\Debug\net6.0\Chain of responsability.dll
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\bin\Debug\net6.0\Chain of responsability.pdb
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.dll
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\refint\Chain of responsability.dll
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.pdb
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\Chain of responsability.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Lab03_tmps\obj\Debug\net6.0\ref\Chain of responsability.dll

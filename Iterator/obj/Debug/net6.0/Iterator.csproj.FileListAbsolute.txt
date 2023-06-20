@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\bin\Debug\net6.0\Iterator.exe
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\bin\Debug\net6.0\Iterator.deps.json
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\bin\Debug\net6.0\Iterator.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\bin\Debug\net6.0\Iterator.dll
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\bin\Debug\net6.0\Iterator.pdb
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.dll
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\refint\Iterator.dll
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.pdb
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\Lab03_tmps\Iterator\obj\Debug\net6.0\ref\Iterator.dll
