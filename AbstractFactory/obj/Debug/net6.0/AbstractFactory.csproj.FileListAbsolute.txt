@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\lab01_tmps\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
